@@ -42,7 +42,7 @@ Check out the [excellent final projects](http://crowdsourcing-class.org/final-pr
 
 
 Course number
-: CMSC B383 
+: CMSC B367 
 
 Instructor
 : [Elizabeth Dinella](https://elizabethdinella.github.io)
@@ -53,7 +53,7 @@ Teaching Assistants
 -->
 
 Website 
-: [https://bmc-cs-software-analysis.github.io/383](https://bmc-cs-software-analysis.github.io/383)
+: [https://bmc-cs-software-analysis.github.io/367](https://bmc-cs-software-analysis.github.io/367)
 
 <!-- 
 Code Samples From Lecture
