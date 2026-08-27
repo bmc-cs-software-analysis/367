@@ -1,7 +1,7 @@
 - 
   lectures: 
     - 
-      date: 2025-01-22
+      date: 2026-09-01
       title: Lecture 1 <br> Intro to Software Analysis 
       slides:  "slides/lecture01.pdf"
       recording: ~
@@ -14,7 +14,7 @@
        #   title: "Lab01 -  Exceptions & I/O"
        #   url: "labs/Lab01.html"
     - 
-      date: 2025-01-27
+      date: 2026-09-03
       title: Lecture 2 <br> Program Representations
       slides: "slides/lecture02.pdf"
       recording: ~
@@ -30,7 +30,7 @@
           url: "labs/Lab01.html"
           deadline: "2025-02-02"
     - 
-      date: 2025-01-29
+      date: 2026-09-08
       title: Lecture 3 <br> Program Representations II and Transformations
       slides: "slides/lecture03.pdf"
       recording: ~
@@ -44,7 +44,7 @@
           url: "hws/HW01.html"
           deadline: "2025-02-14"
     - 
-      date: 2025-02-03
+      date: 2026-09-10
       title: Lecture 4 <br> Program Transformations <br> Unit Testing <br> Coverage 
       readings: ~
       slides: "slides/lecture04.pdf"
@@ -55,7 +55,7 @@
         url: "https://elizabethdinella.github.io/blog-posts/coverage/"
         deadline: "2025-02-09"
     -
-      date: 2025-02-05
+      date: 2026-09-15
       title: Lecture 5 <br> Test Oracles 
       slides: "slides/lecture05.pdf"
       readings: 
@@ -69,7 +69,7 @@
         #  deadline: "2025-02-08"
 
     - 
-      date: 2025-02-10
+      date: 2026-09-17
       title: Lecture 6 <br> Mutation Testing
       #readings:
       #  -
@@ -89,7 +89,7 @@
           url: "labs/Lab03.html"
           deadline: 2025-02-17
     - 
-      date: 2025-02-12
+      date: 2026-09-22
       title: Lecture 7 <br> Test Oracles II
       slides: "slides/lecture07.pdf"
       recording: ~
@@ -103,7 +103,7 @@
         #  title: "HW02 -  Fuzzing"
         #  url: "hws/HW02.html"
     -
-      date: 2025-02-17
+      date: 2026-09-24
       title: Lecture 8 <br> Randomized Testing <br> Defects4j
       slides: "slides/lecture08.pdf"
       readings:
@@ -116,7 +116,7 @@
           url: "labs/Lab04.html"
           deadline: 2025-02-23
     - 
-      date: 2025-02-19
+      date: 2026-09-29
       title: Lecture 9 <br> Genetic Algorithms 
       slides: "slides/lecture09.pdf"
       readings:
@@ -139,7 +139,7 @@
       #url: "hws/HW03.html"
 
     -
-      date: 2025-02-24
+      date: 2026-10-01
       title: Lecture 10 <br> SBST <br> EvoSuite
       slides: "slides/lecture10.pdf"
       readings:
@@ -156,7 +156,7 @@
           url: "labs/Lab05.html"
           deadline: 2025-03-17
     -
-      date: 2025-02-26
+      date: 2026-10-06
       title: Lecture 11 <br> SBST <br> CodaMosa 
       slides: "slides/lecture11.pdf"
       readings:
@@ -165,7 +165,7 @@
           url: "https://www.carolemieux.com/codamosa_icse23.pdf"
       #recording: ~
     - 
-      date: 2025-03-03
+      date: 2026-10-08
       title: Respond to the Midterm Survey
       slides: "https://forms.gle/b1BMkSqo2gC3SGv28"
       #readings:
@@ -181,7 +181,13 @@
           #title: "Project"
           #_url: "labs/Lab00.html"
     - 
-      date: 2025-03-05
+      date: 2026-10-13
+      title: Fall Break. No Class.
+    -
+      date: 2026-10-15
+      title: Fall Break. No Class.
+    -
+      date: 2026-10-20
       title: Lecture 12 <br> Fuzzing <br> AFL
       readings:
         -
@@ -196,18 +202,11 @@
           url: "activity.html"
       slides: "slides/lecture12.pdf"
       recording: ~
-    - 
-      date: 2025-03-10
-      title: Spring Break
-    - 
-      date: 2025-03-12
-      title: Spring Break 
-
   name: "Part I"
 -
   lectures:
     - 
-      date: 2025-03-17
+      date: 2026-10-22
       title: Lecture 13 <br> Boolean Satisfiability 
       slides: "slides/lecture13.pdf"
       recording: ~
@@ -223,7 +222,7 @@
       #    - 
       #      title: "Chapter 9 - Priority Queues"
     - 
-      date: 2025-03-19
+      date: 2026-10-27
       title: Lecture 14 <br> SAT and SMT
       slides: "slides/lecture14.pdf"
       recording: ~
@@ -232,7 +231,7 @@
       #  -
       #    title: "Chapter 9 - Priority Queues"
     - 
-      date: 2025-03-24
+      date: 2026-10-29
       title: Lecture 15 <br> Formal Verification 
       slides: "slides/lecture15.pdf"
       recording: ~
@@ -244,7 +243,7 @@
           deadline: 2025-03-30
         
     - 
-      date: 2025-03-26
+      date: 2026-11-03
       title: Lecture 16 <br> Formal Verification II
       slides: "slides/lecture16.pdf"
       recording: ~
@@ -258,7 +257,7 @@
           url: "hws/HW03.html"
           deadline: "2025-04-07"
     - 
-      date: 2025-03-31
+      date: 2026-11-05
       title: Lecture 17 <br> Deductive Reasoning 
       slides: "slides/lecture17.pdf"
       assignments: 
@@ -271,7 +270,7 @@
       #    title: "Chapter 10 - Maps, Hash Tables, and Skip Lists"
       recording: ~
     - 
-      date: 2025-04-02
+      date: 2026-11-10
       title: Lecture 18 <br> Project Check In
       slides: "https://piazza.com/class/m61bd6hr6hw7h/post/85"
       #readings:
@@ -280,7 +279,7 @@
       #      #title: "Chapter 12 - Sorting & Selection"
       recording: ~
     - 
-      date: 2025-04-07
+      date: 2026-11-12
       title: Lecture 19 <br> Symbolic Execution
       slides: "slides/lecture19.pdf"
       #recording: ~
@@ -294,7 +293,7 @@
             url: "labs/Lab09.html"
             deadline: "2025-04-13"
     - 
-      date: 2025-04-09
+      date: 2026-11-17
       title: Lecture 20 <br> Concolic Execution
       slides: "slides/lecture20.pdf"
       #recording: ~
@@ -303,7 +302,7 @@
           title: "On Recent AI Model Progress"
           url: "https://zeropath.com/blog/on-recent-ai-model-progress"
     - 
-      date: 2025-04-14
+      date: 2026-11-19
       title: Lecture 21 <br> No Class
       #slides: "slides/lecture22.pdf"
       readings: ~
@@ -312,15 +311,15 @@
           title: "Lab - Project Check In 2"
           #url: "labs/Lab10.html"
     - 
-      date: 2025-04-16
+      date: 2026-11-24
       title: Lecture 22 <br> Project Check in II
       #slides: "slides/lecture23.pdf"
       readings: ~
       
       recording: ~
     - 
-      date: 2025-04-21
-      title: Lecture 23 <br> No Class
+      date: 2026-11-26
+      title: Lecture 23 <br> No Class. Thanksgiving Break.
       #slides: "slides/lecture24.pdf"
       readings: ~
       recording: ~
@@ -331,7 +330,7 @@
               #"<s>HW09 - Google Maps</s>"
               #_url: "labs/Lab00.html"
     - 
-      date: 2025-04-23
+      date: 2026-12-01
       title: Lecture 24 <br> Static Analysis
       slides: "slides/lecture24.pdf"
       readings:
@@ -339,7 +338,7 @@
           title: "Program Abstractions"
           url: "https://elizabethdinella.github.io/blog-posts/programabstractions/"
     -
-      date: 2025-04-28
+      date: 2026-12-03
       title: Lecture 25 <br> Static Analysis II
       slides: "slides/lecture25.pdf"
       readings: 
@@ -355,8 +354,13 @@
             title: "Lab 10 - Static Analysis"
             url: "labs/Lab10.html"
     - 
-      date: 2025-04-30
-      title: Lecture 26 <br> No Class
+      date: 2026-12-08
+      title: Lecture 26 <br> Final Review.
+      #slides: "slides/lecture27.pdf"
+      recording: ~
+    - 
+      date: 2026-12-10
+      title: Lecture 26 <br> Final Exam.
       #slides: "slides/lecture27.pdf"
       recording: ~
   name: "Part II"
