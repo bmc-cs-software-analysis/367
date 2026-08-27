@@ -38,11 +38,7 @@
         -
           title: "Visitor Design Pattern (pages 331-344)"
           url: "https://github.com/GunterMueller/Books-3/blob/master/Design%20Patterns%20Elements%20of%20Reusable%20Object-Oriented%20Software.pdf"
-      assignments:
-        -
-          title: "HW01 - Program Transformations"
-          url: "hws/HW01.html"
-          deadline: "2025-02-14"
+          
     - 
       date: 2026-09-10
       title: Lecture 4 <br> Program Transformations <br> Unit Testing <br> Coverage 
@@ -51,9 +47,9 @@
       recording: ~
       assignments: 
        - 
-        title: "Lab 2 -  Coverage"
-        url: "https://elizabethdinella.github.io/blog-posts/coverage/"
-        deadline: "2025-02-09"
+          title: "HW2 - Program Transformations"
+          url: "hws/HW01.html"
+          deadline: "2026-09-18"
     -
       date: 2026-09-15
       title: Lecture 5 <br> Test Oracles 
