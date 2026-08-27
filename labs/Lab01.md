@@ -98,8 +98,8 @@ Ensure your jar files are in the current working directory, or modify the classp
 ## 1. Testing ParseInt
 
 To begin, download the following files:
-- Source file: `wget https://bmc-cs-software-analysis.github.io/383/labs/lab01/StringToInteger.java`
-- Starter test file: `wget https://bmc-cs-software-analysis.github.io/383/labs/lab01/TestStringToInteger.java`
+- Source file: `wget https://bmc-cs-software-analysis.github.io/367/labs/lab01/StringToInteger.java`
+- Starter test file: `wget https://bmc-cs-software-analysis.github.io/367/labs/lab01/TestStringToInteger.java`
 
 Take note of the imports and the `@Test` annotation in the starter test file. 
 
