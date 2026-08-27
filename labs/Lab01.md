@@ -326,11 +326,12 @@ A statement coverage metric considers these two statements separately, while a l
 If that was difficult for you to parse, you're not alone! Denoting a program path using line numbers and True or False branch evaluations isn't particularly intuitive.
 To visualize all possible paths more naturally, we can represent code as a **Control Flow Graph (CFG).** A CFG is a directed graph with each node representing groups of one or statements and edges representing flows between them. Consider the CFG for calculatePrice: 
 
-<img src="https://elizabethdinella.github.io/images/coverage/cfg.png" width="50%">
+<img src="https://elizabethdinella.github.io/images/coverage/cfg.png" width="80%">
 
  The path for `testWeekInAdvance` can now be easily represented as a path through the CFG:
 
-![CFG Path](https://elizabethdinella.github.io/images/coverage/cfg-path.png){width=50%}
+
+<img src="https://elizabethdinella.github.io/images/coverage/cfg-path.png" width="80%">
 
 This an example of how different program representations offer distinct advantages for analysis. It might not be obvious what all the possible paths are while looking at the source code, but a control flow graph clearly shows this.
 
