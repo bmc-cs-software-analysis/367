@@ -26,9 +26,9 @@
       #    title: "Simplifying and Isolating Failure-Inducing Input - Andreas Zeller"
       assignments: 
        - 
-          title: "Lab 1 - Ad-hoc Testing"
+          title: "HW1 - Ad-hoc Testing"
           url: "labs/Lab01.html"
-          deadline: "2025-02-02"
+          deadline: "2026-09-11"
     - 
       date: 2026-09-08
       title: Lecture 3 <br> Program Representations II and Transformations

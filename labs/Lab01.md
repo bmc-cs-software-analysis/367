@@ -1,11 +1,11 @@
 ---
 layout: default
 title: "What Makes a Good Test Suite?"
-type: Lab
+type: Homework
 number: 01
-active_tab: lab
-release_date: 2024-01-22
-
+active_tab: homework
+release_date: 2026-09-03
+due_date: 2026-09-11 23:59:00EDT
 ---
 
 <!-- Check whether the assignment is ready to release -->
