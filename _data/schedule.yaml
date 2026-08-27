@@ -15,7 +15,7 @@
        #   url: "labs/Lab01.html"
     - 
       date: 2026-09-03
-      title: Lecture 2 <br> Program Representations
+      title: Lecture 2 <br> Unit Testing <br> Coverage <br> Program Representations
       slides: "slides/lecture02.pdf"
       recording: ~
       readings: 
@@ -41,7 +41,7 @@
           
     - 
       date: 2026-09-10
-      title: Lecture 4 <br> Program Transformations <br> Unit Testing <br> Coverage 
+      title: Lecture 4 <br> Program Transformations  
       readings: ~
       slides: "slides/lecture04.pdf"
       recording: ~
