@@ -326,11 +326,11 @@ A statement coverage metric considers these two statements separately, while a l
 If that was difficult for you to parse, you're not alone! Denoting a program path using line numbers and True or False branch evaluations isn't particularly intuitive.
 To visualize all possible paths more naturally, we can represent code as a **Control Flow Graph (CFG).** A CFG is a directed graph with each node representing groups of one or statements and edges representing flows between them. Consider the CFG for calculatePrice: 
 
-![CFG](https://elizabethdinella.github.io/images/coverage/cfg.png)
+![CFG](https://elizabethdinella.github.io/images/coverage/cfg.png){width=50%}
 
  The path for `testWeekInAdvance` can now be easily represented as a path through the CFG:
 
-![CFG Path](https://elizabethdinella.github.io/images/coverage/cfg-path.png)
+![CFG Path](https://elizabethdinella.github.io/images/coverage/cfg-path.png){width=50%}
 
 This an example of how different program representations offer distinct advantages for analysis. It might not be obvious what all the possible paths are while looking at the source code, but a control flow graph clearly shows this.
 
@@ -347,13 +347,13 @@ This is the central lesson tying both parts of this assignment together. In Part
 
 Submit the following to Gradescope.
  
-## Code and tests
+### Code and tests
  
 - Your `parseInt` test suite (`TestStringToInteger.java`).
 - Your `parseDate` implementation and its test suite (`ParseDate.java`, `TestParseDate.java`).
 - `TestBuyTicket.java`, including the three coverage exercises (senior discount, minor discount, and any additional cases you added).
 
-## Coverage questions (`txt` or `md` file)
+### Coverage questions (`txt` or `md` file)
  
 Answer the following:
  
@@ -364,7 +364,7 @@ Answer the following:
 5. How would the CFG of a program with a loop look? What about recursion? Does your path calculation from question 4 still hold?
 6. How are statements grouped to form nodes in the CFG? (Hint: look up basic blocks.)
 
-## Reflection: "What Makes a Good Test Suite?" (`txt` or `md` file)
+### Reflection: "What Makes a Good Test Suite?" (`txt` or `md` file)
  
 Draw on your experience across *both* parts: the intuition you used in Part 1 and the coverage metrics you learned in Part 2.
  
