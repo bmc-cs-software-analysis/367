@@ -64,9 +64,7 @@ Discussion Forum
 : [Piazza](https://piazza.com/class/m61bd6hr6hw7h/)
 
 Time and place
-: Spring 2025, MW 10:10-11:30pm, Location: Park 337
-: Lab M: 2:40-4:00pm, Location: Park 230
-
+: Fall 2026, TuTh 11:40-1:00pm, Location: Park 245
 
 Course Readings
 : Some lectures will have accompanying readings related to the lecture's topic
