@@ -276,7 +276,7 @@
           url: "https://zeropath.com/blog/on-recent-ai-model-progress"
     - 
       date: 2026-11-19
-      title: Lecture 21 <br> TBD
+      title: Lecture 21 <br> Project Check In I
       #slides: "slides/lecture22.pdf"
       readings: ~
       assignments: 
@@ -285,10 +285,9 @@
           #url: "labs/Lab10.html"
     - 
       date: 2026-11-24
-      title: Lecture 22 <br> Project Check in II
+      title: Lecture 22 <br> Project Check In II
       #slides: "slides/lecture23.pdf"
       readings: ~
-      
       recording: ~
     - 
       date: 2026-11-26
@@ -296,12 +295,7 @@
       #slides: "slides/lecture24.pdf"
       readings: ~
       recording: ~
-      assignments: 
-        - 
-          #deadline: <s>2023-12-14</s>
-          title: "No Lab."
-              #"<s>HW09 - Google Maps</s>"
-              #_url: "labs/Lab00.html"
+      assignments: ~
     - 
       date: 2026-12-01
       title: Lecture 24 <br> Static Analysis
@@ -324,8 +318,8 @@
       #recording: ~
       assignments:
           - 
-            title: "Lab 10 - Static Analysis"
-            url: "labs/Lab10.html"
+            title: "HW10 - Static Analysis"
+            #url: "labs/Lab10.html"
     - 
       date: 2026-12-08
       title: Lecture 26 <br> Final Review.
