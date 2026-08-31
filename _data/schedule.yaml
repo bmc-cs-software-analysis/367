@@ -219,11 +219,6 @@
           title: "HW7 - Boolean Satisfiability"
           url: "hws/HW07.html"
           deadline: "2026-11-06"
-        - 
-          title: "Lab 7 - Formal Verification"
-          url: "labs/Lab07.html"
-          deadline: 2025-03-30
-        
     - 
       date: 2026-11-03
       title: Lecture 16 <br> Formal Verification I
@@ -233,20 +228,16 @@
         -
           title: "The Software Crisis"
           url: "https://www.youtube.com/watch?v=SQAoXRW-qZo&list=PLre5AT9JnKShFK9l9HYzkZugkJSsXioFs&index=4"
-      assignments:
-        -
-          title: "HW 3 - Boolean Satisfiability"
-          url: "hws/HW03.html"
-          deadline: "2025-04-07"
+      assignments: ~
     - 
       date: 2026-11-05
       title: Lecture 17 <br> Formal Verification II
       slides: "slides/lecture17.pdf"
       assignments: 
         - 
-          title: "Lab 8 - Dafny"
-          url: "labs/Lab08.html"
-          deadline: 2025-04-06
+          title: "HW 8 - Formal Verification"
+          url: "hws/HW08.html"
+          deadline: 2026-11-13
       #readings:
       #  -
       #    title: "Chapter 10 - Maps, Hash Tables, and Skip Lists"
