@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CS151 Policies
+title: CS367 Policies
 active_tab: Policies
 ---
 
@@ -11,38 +11,31 @@ These policies are subject to change until the beginning of the semester and thr
 
 All times listed on the course webpage are in Eastern Standard Time (EST).
 
-### Support
-You are not alone in this course; the course staff
-are here to support you as you learn the material. It's expected that some aspects of the course will take time to master, and the best way to master challenging material is to ask questions. We will use Piazza for online questions and discussions. 
+## AI and Outside Sources Policy
 
-The course staff will be holding regular office hours. We have listed their times on our [Office Hours page](https://bmc-cs-151.github.io/office-hours.html).
+The assignments in this course are meant to assist you in learning the material, practicing your programming skills, and becoming more comfortable in the terminal. Learning the content and building your skills in this course are crucial to investing in yourself as a computer scientist.
 
-### Academic Integrity 
+Understanding a given solution is very far away from being able to come up with one yourself. The following are guidelines to avoid shortcuts:
 
-At Bryn Mawr, we assume students are trustworthy and work with honesty and integrity. [Look here for information about Bryn Mawr’s Honor Code](https://www.brynmawr.edu/inside/offices-services/deans-office/academic-community-integrity).
+- When possible, use course and tool resources (class examples, lecture notes, and documentation) rather than googling. LLMs are probabilistic models and can lie / hallucinate API information.
+- When using AI and outside sources (internet) you should avoid asking questions that are overly contextualized to your own code. Try to ask general questions and avoid sharing code you wrote with any online tools.
+- Write your own code. Copy-pasting code from an LLM or outside source is detrimental to your learning. Writing your own code and working through compiler and runtime errors refines your skills, and promotes learning. To be an effective computer scientist, you should be comfortable on the terminal, writing code, and working through errors. The best way to build these skills is to practice them.
 
+## Attendance
 
-#### Academic Integrity in Computer Science
+Attendance at and active participation in all lectures is expected of all students. Participation will be taken into account when awarding final grades for students who are "on the edge" between two grades. For example, a student with a B+/A- average and a strong attendance and participation record would receive an A-, while a student with a weak record would receive a B+.
 
-**Discussing ideas and approaches to problems with others on a general level is fine (in fact, we encourage you to discuss general strategies with each other), but you should never read anyone else’s code or let anyone else read your code.*
+Missing an exam without prior approval will result in a 0. Conflicts with scheduled exams for reasons such as religious observances, athletic events or other planned absences must be reported to the instructor during the first two weeks of classes (or as soon as such events are announced), with documentation so that makeup dates may be arranged. Medical, family or other emergencies must be reported as soon as possible, with accompanying documentation from a doctor or your dean.
 
-* All code you submit should be your own with the following permissible exceptions: code distributed in class, and code found in the course text book. In these cases, you should always include detailed comments that indicates on which parts of the assignment you received help, and what your sources were.
+## Extensions and Late Work
 
+Deadlines on assignments are intended to help students stay on track and prevent work from accumulating to an unmanageable level. In addition to the posted due date, a "late deadline" will be set in Gradescope 2 days after the original deadline. During this period, the submission window will remain open and no late penalty will be applied. Timely submissions may also be considered when determining final course grades for students whose overall performance falls near a grade boundary. After the late deadline, students must request an extension by emailing the instructors with accompanying documentation from a doctor or your dean.
 
-### Academic Accommodations
+## Collaboration
 
+Collaboration is encouraged. You may discuss ideas and approaches with classmates, but your submission must reflect your own work. Please do not directly share code or answers.
 
-Any student who has a disability-related need to record this class first must speak with the Director of Access Services, Deb Alder, as part of university policy. Class members need to be aware that this class may be recorded.
+## Learning Accommodations
 
-To receive an accommodation for a course activity (such as more time on exams), you must have an Accommodation Letter from the Office of Student Disability Services and you need to contact us to work out the details of your accommodation at least two weeks prior to the activity. Forms can be emailed to me, the instructor.
-
-You are also welcome to contact us privately to discuss your academic needs. However, all disability-related accommodations must be arranged, in advance, through Student Disability Services.
-
-Students needing academic accommodations for a disability must first register with Access Services. Students can call 610-526-7516 to make an appointment with the Director of Access Services, Deb Alder, or email her at [dalder@brynmawr.edu](mailto:dalder@brynmawr.edu) to begin this confidential process. Once registered, students should schedule an appointment with the professor as early in the semester as possible to share the verification form and make appropriate arrangements. Please note that accommodations are not retroactive and require advance notice to implement. More information can be obtained at the Access Services website: [http://www.brynmawr.edu/access-services/](http://www.brynmawr.edu/access-services/).
-
-### Covid & Sick Policy
-
-Lectures and labs will have a mask-friendly policy. All are welcome to wear a mask if they so wish, but no one is mandated to wear a mask.
-
-If you are symptomatic (coughing, sore throat, or running nose), please stay at home. Lectures will be recorded so they can be watched later. Missed lab activities will be able to be made up on your own.
+Students with learning accommodations are encouraged to contact the instructors early in the semester with a verification letter.
 
