@@ -61,7 +61,7 @@ Code Samples From Lecture
 -->
 
 Discussion Forum
-: [Piazza](https://piazza.com/class/m61bd6hr6hw7h/)
+: [Piazza](https://piazza.com/brynmawr/fall2026/cs367)
 
 Time and place
 : Fall 2026, TuTh 11:40-1:00pm, Location: Park 245
@@ -70,10 +70,10 @@ Course Readings
 : Some lectures will have accompanying readings related to the lecture's topic
 
 Grading
-* Homeworks: 20%
-* Labs: 35%
-* Project: 40%
-* Participation: 5%
+* Homeworks: 40%
+* Midterm: 30%
+* Final: 20%
+* Project: 10%
 
 
 <!--Late day policy

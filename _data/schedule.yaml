@@ -222,7 +222,7 @@
     - 
       date: 2026-11-03
       title: Lecture 16 <br> Formal Verification I
-      slides: "slides/lecture16.pdf"
+      #slides: "slides/lecture16.pdf"
       recording: ~
       readings:
         -
@@ -232,7 +232,7 @@
     - 
       date: 2026-11-05
       title: Lecture 17 <br> Formal Verification II
-      slides: "slides/lecture17.pdf"
+      #slides: "slides/lecture17.pdf"
       assignments: 
         - 
           title: "HW 8 - Formal Verification"
@@ -245,7 +245,7 @@
     - 
       date: 2026-11-10
       title: Lecture 18 <br> Deductive Reasoning 
-      slides: "https://piazza.com/class/m61bd6hr6hw7h/post/85"
+      #slides: "https://piazza.com/class/m61bd6hr6hw7h/post/85"
       #readings:
       #  -
       #      title: "Chapter 10 - Maps, Hash Tables, and Skip Lists"
@@ -254,7 +254,7 @@
     - 
       date: 2026-11-12
       title: Lecture 19 <br> Symbolic Execution
-      slides: "slides/lecture19.pdf"
+      #slides: "slides/lecture19.pdf"
       #recording: ~
       readings: 
         - 
@@ -268,7 +268,7 @@
     - 
       date: 2026-11-17
       title: Lecture 20 <br> Concolic Execution
-      slides: "slides/lecture20.pdf"
+      #slides: "slides/lecture20.pdf"
       #recording: ~
       readings:
         -
@@ -305,7 +305,7 @@
     - 
       date: 2026-12-01
       title: Lecture 24 <br> Static Analysis
-      slides: "slides/lecture24.pdf"
+      #slides: "slides/lecture24.pdf"
       readings:
         -
           title: "Program Abstractions"
@@ -313,7 +313,7 @@
     -
       date: 2026-12-03
       title: Lecture 25 <br> Static Analysis II
-      slides: "slides/lecture25.pdf"
+      #slides: "slides/lecture25.pdf"
       readings: 
         -
           title: "Prompts are Programs"
