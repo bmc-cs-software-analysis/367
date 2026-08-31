@@ -3,7 +3,7 @@
     - 
       date: 2026-09-01
       title: Lecture 1 <br> Intro to Software Analysis 
-      #slides:  "slides/lecture01.pdf"
+      slides:  "slides/lecture01.pdf"
       recording: ~
           #code: "https://github.com/BMC-CS-151/class-examples-f23/tree/main/week1/"
       readings:
