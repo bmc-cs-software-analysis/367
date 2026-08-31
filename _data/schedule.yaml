@@ -235,7 +235,7 @@
       #slides: "slides/lecture17.pdf"
       assignments: 
         - 
-          title: "HW 8 - Formal Verification"
+          title: "HW8 - Formal Verification"
           url: "hws/HW08.html"
           deadline: 2026-11-13
       #readings:
@@ -262,9 +262,9 @@
           url: "https://dl.acm.org/doi/pdf/10.1145/2408776.2408795"
       assignments: 
         -
-            title: "Lab 9 - Symbolic Execution"
-            url: "labs/Lab09.html"
-            deadline: "2025-04-13"
+            title: "HW9 - Symbolic Execution"
+            url: "hws/HW09.html"
+            deadline: "2026-11-20"
     - 
       date: 2026-11-17
       title: Lecture 20 <br> Concolic Execution
