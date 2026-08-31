@@ -81,9 +81,9 @@
           url: "https://web.eecs.umich.edu/~movaghar/Mutation%20Testing%20LLM%202025.pdf"
       assignments: 
         - 
-          title: "Lab 3 -  Mutation Testing"
-          url: "labs/Lab03.html"
-          deadline: 2025-02-17
+          title: "HW3 -  Mutation Testing"
+          url: "hws/HW03.html"
+          deadline: 2026-09-25
     - 
       date: 2026-09-22
       title: Lecture 7 <br> Test Oracles II
