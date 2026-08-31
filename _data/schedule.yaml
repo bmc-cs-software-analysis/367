@@ -276,29 +276,26 @@
           url: "https://zeropath.com/blog/on-recent-ai-model-progress"
     - 
       date: 2026-11-19
-      title: Lecture 21 <br> Project Check In I
+      title: Project Check In I
       #slides: "slides/lecture22.pdf"
       readings: ~
-      assignments: 
-        -
-          title: "Lab - Project Check In 2"
-          #url: "labs/Lab10.html"
+      assignments: ~
     - 
       date: 2026-11-24
-      title: Lecture 22 <br> Project Check In II
+      title: Project Check In II
       #slides: "slides/lecture23.pdf"
       readings: ~
       recording: ~
     - 
       date: 2026-11-26
-      title: Lecture 23 <br> No Class. Thanksgiving Break.
+      title: Thanksgiving Break. No Class.
       #slides: "slides/lecture24.pdf"
       readings: ~
       recording: ~
       assignments: ~
     - 
       date: 2026-12-01
-      title: Lecture 24 <br> Static Analysis
+      title: Lecture 21 <br> Static Analysis
       #slides: "slides/lecture24.pdf"
       readings:
         -
@@ -306,7 +303,7 @@
           url: "https://elizabethdinella.github.io/blog-posts/programabstractions/"
     -
       date: 2026-12-03
-      title: Lecture 25 <br> Static Analysis II
+      title: Lecture 22 <br> Static Analysis II
       #slides: "slides/lecture25.pdf"
       readings: 
         -
@@ -322,12 +319,12 @@
             #url: "labs/Lab10.html"
     - 
       date: 2026-12-08
-      title: Lecture 26 <br> Final Review.
+      title: Lecture 23 <br> Final Review.
       #slides: "slides/lecture27.pdf"
       recording: ~
     - 
       date: 2026-12-10
-      title: Lecture 26 <br> Final Exam.
+      title: Final Exam.
       #slides: "slides/lecture27.pdf"
       recording: ~
   name: "Part II"
