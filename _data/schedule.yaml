@@ -159,8 +159,8 @@
       #recording: ~
     - 
       date: 2026-10-08
-      title: Respond to the Midterm Survey
-      slides: "https://forms.gle/b1BMkSqo2gC3SGv28"
+      title: Lecture 12 <br> Fuzzing <br> AFL
+      #slides: "https://forms.gle/b1BMkSqo2gC3SGv28"
       #readings:
       #  -
       #    title: "Chapter 8"
@@ -181,7 +181,7 @@
       title: Fall Break. No Class.
     -
       date: 2026-10-20
-      title: Lecture 12 <br> Fuzzing <br> AFL
+      title: Lecture 13 <br> Midterm Review
       readings:
         -
           title: "Leveling up Fuzzing: Finding more Vulnerabilities with AI"
@@ -195,28 +195,16 @@
           url: "activity.html"
       slides: "slides/lecture12.pdf"
       recording: ~
+    -
+      date: 2026-10-22
+      title: Midterm
+
   name: "Part I"
 -
   lectures:
     - 
-      date: 2026-10-22
-      title: Lecture 13 <br> Boolean Satisfiability 
-      slides: "slides/lecture13.pdf"
-      recording: ~
-      assignments: 
-        -
-            title: "Lab 6 - AFL"
-            url: "labs/Lab06.html"
-            deadline: 2025-03-23
-        -
-            title: "Project"
-            url: "project/Project.html"
-      #readings:
-      #    - 
-      #      title: "Chapter 9 - Priority Queues"
-    - 
       date: 2026-10-27
-      title: Lecture 14 <br> SAT and SMT
+      title: Lecture 14 <br> Boolean Satisfiability 
       slides: "slides/lecture14.pdf"
       recording: ~
       assignments: ~
@@ -225,8 +213,8 @@
       #    title: "Chapter 9 - Priority Queues"
     - 
       date: 2026-10-29
-      title: Lecture 15 <br> Formal Verification 
-      slides: "slides/lecture15.pdf"
+      title: Lecture 15 <br> SAT and SMT
+      #slides: "slides/lecture15.pdf"
       recording: ~
       readings: ~
       assignments: 
@@ -237,7 +225,7 @@
         
     - 
       date: 2026-11-03
-      title: Lecture 16 <br> Formal Verification II
+      title: Lecture 16 <br> Formal Verification I
       slides: "slides/lecture16.pdf"
       recording: ~
       readings:
@@ -251,7 +239,7 @@
           deadline: "2025-04-07"
     - 
       date: 2026-11-05
-      title: Lecture 17 <br> Deductive Reasoning 
+      title: Lecture 17 <br> Formal Verification II
       slides: "slides/lecture17.pdf"
       assignments: 
         - 
@@ -264,7 +252,7 @@
       recording: ~
     - 
       date: 2026-11-10
-      title: Lecture 18 <br> Project Check In
+      title: Lecture 18 <br> Deductive Reasoning 
       slides: "https://piazza.com/class/m61bd6hr6hw7h/post/85"
       #readings:
       #  -
@@ -296,7 +284,7 @@
           url: "https://zeropath.com/blog/on-recent-ai-model-progress"
     - 
       date: 2026-11-19
-      title: Lecture 21 <br> No Class
+      title: Lecture 21 <br> TBD
       #slides: "slides/lecture22.pdf"
       readings: ~
       assignments: 
