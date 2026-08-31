@@ -106,11 +106,7 @@
         - 
           title: "Feedback-directed Random Test Generation"
           url: "https://homes.cs.washington.edu/%7Emernst/pubs/feedback-testgen-icse2007.pdf"
-      assignments: 
-        - 
-          title: "Lab 4 - Randoop and Defects4j"
-          url: "labs/Lab04.html"
-          deadline: 2025-02-23
+      assignments:  ~
     - 
       date: 2026-09-29
       title: Lecture 9 <br> Genetic Algorithms 
@@ -148,9 +144,9 @@
       #recording: ~
       assignments: 
         - 
-          title: "Lab 5 - Evosuite"
-          url: "labs/Lab05.html"
-          deadline: 2025-03-17
+          title: "HW5 - Automated Testing"
+          url: "hws/HW05.html"
+          deadline: 2026-10-09
     -
       date: 2026-10-06
       title: Lecture 11 <br> SBST <br> CodaMosa 
