@@ -125,9 +125,9 @@
       recording: ~
       assignments: 
         -
-          deadline: 2025-03-08
-          title: "HW02 - Assertion Inference"
-          url: "hws/HW02.html"
+          deadline: 2026-09-02
+          title: "HW4 - Assertion Inference"
+          url: "hws/HW04.html"
 
       #deadline: 2025-02-22
       #title: "Project 1 - Bug Case Study"
