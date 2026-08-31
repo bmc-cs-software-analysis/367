@@ -215,6 +215,10 @@
       recording: ~
       readings: ~
       assignments: 
+        -
+          title: "HW7 - Boolean Satisfiability"
+          url: "hws/HW07.html"
+          deadline: "2026-11-06"
         - 
           title: "Lab 7 - Formal Verification"
           url: "labs/Lab07.html"
