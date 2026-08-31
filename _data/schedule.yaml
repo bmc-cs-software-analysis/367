@@ -106,7 +106,11 @@
         - 
           title: "Feedback-directed Random Test Generation"
           url: "https://homes.cs.washington.edu/%7Emernst/pubs/feedback-testgen-icse2007.pdf"
-      assignments:  ~
+      assignments:  
+        -
+          deadline: 2026-09-02
+          title: "HW4 - Assertion Inference"
+          url: "hws/HW04.html"
     - 
       date: 2026-09-29
       title: Lecture 9 <br> Genetic Algorithms 
@@ -119,11 +123,8 @@
             title: "A Systematic Survey of Prompt Engineering in Large Language Models: Techniques and Applications"
             url: "https://arxiv.org/pdf/2402.07927"
       recording: ~
-      assignments: 
-        -
-          deadline: 2026-09-02
-          title: "HW4 - Assertion Inference"
-          url: "hws/HW04.html"
+      assignments: ~
+        
 
       #deadline: 2025-02-22
       #title: "Project 1 - Bug Case Study"
