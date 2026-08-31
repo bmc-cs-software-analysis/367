@@ -1,0 +1,7 @@
+{
+  "name": "HW06 Fuzzing With AFL",
+  "image": "aflplusplus/aflplusplus:latest",
+  "workspaceFolder": "/src",
+  "workspaceMount": "source=${localWorkspaceFolder},target=/src,type=bind",
+  "postCreateCommand": "wget -N -P /src https://bmc-cs-software-analysis.github.io/367/hw06/sanity1.c https://bmc-cs-software-analysis.github.io/367/hw06/easy1.c https://bmc-cs-software-analysis.github.io/367/hw06/easy2.c https://bmc-cs-software-analysis.github.io/367/hw06/path1.c https://bmc-cs-software-analysis.github.io/367/hw06/path2.c https://bmc-cs-software-analysis.github.io/367/hw06/path3.c https://bmc-cs-software-analysis.github.io/367/hw06/parse_json.c"
+}
