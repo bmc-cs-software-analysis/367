@@ -1,2 +1,0 @@
-SATISFIABLE
-Assignment: {b=true, c=true}

@@ -9,18 +9,11 @@ active_tab: lectures
 {% capture now %}{{'now' | date: '%s'}}{% endcapture %}
 <!-- End create a HTML anchor for the most recent lecture -->
 
-<div class="alert alert-info">
-You can <a href="https://brynmawr.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=ab6c1f5d-2a96-42e5-8f6a-b26d0117f568">>watch recordings of the lectures online</a>.
-<br><br>
-
-Recordings are saved on Panopto and require a BMC/HC login.
-</div>
-
 The lecture schedule will be updated as the term progresses. 
 
 ### Pre-course
 
-Make sure you are registered for the course [Gradescope](https://www.gradescope.com/) and [Piazza](https://piazza.com/class/m61bd6hr6hw7h/).
+Make sure you are registered for the course [Gradescope](https://www.gradescope.com/) and [Piazza](https://piazza.com/brynmawr/fall2026/cs367).
 
 <!-- Please complete <a href="{{ site.url }}{{ site.baseurl }}/labs/Lab00.html">Lab00</a> before the first lab meeting. -->
 
