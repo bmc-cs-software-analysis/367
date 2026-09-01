@@ -9,7 +9,7 @@
       readings:
         -
           title: "Undecidability of Program Properties"
-          url: "https://docs.google.com/document/d/128g4zuM5wq_ww2bVRYqwG8hPnLC7DpI8fIkTLQX7crI/edit?usp=sharing"
+          url: "r1.pdf"
        # - 
        #   title: "Lab01 -  Exceptions & I/O"
        #   url: "labs/Lab01.html"
@@ -81,9 +81,9 @@
           url: "https://web.eecs.umich.edu/~movaghar/Mutation%20Testing%20LLM%202025.pdf"
       assignments: 
         - 
-          title: "Lab 3 -  Mutation Testing"
+          title: "HW3 -  Mutation Testing"
           url: "labs/Lab03.html"
-          deadline: 2025-02-17
+          deadline: 2026-09-25
     - 
       date: 2026-09-22
       title: Lecture 7 <br> Test Oracles II
