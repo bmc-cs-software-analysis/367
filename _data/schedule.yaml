@@ -15,15 +15,16 @@
        #   url: "labs/Lab01.html"
     - 
       date: 2026-09-03
-      title: Lecture 2 <br> Unit Testing <br> Coverage <br> Program Representations
+      title: Lecture 2 <br> Unit Testing <br> Coverage 
       #slides: "slides/lecture02.pdf"
       recording: ~
       readings: 
         -
-          title: "Graph Representations in Traditional And Neural Program Analysis"
-          url: "https://docs.google.com/presentation/d/1sVCay3RcKD59q8kCVRSVIR45MmVQvQUGSbBBPiiw1Yk/edit?usp=sharing"
-      #  -
-      #    title: "Simplifying and Isolating Failure-Inducing Input - Andreas Zeller"
+          title: "Competency Exam - Instructions"
+          url: "Competency_Exam.pdf"
+        -
+          title: "Competency Exam - Code"
+          url: "starter.zip"
       assignments: 
        - 
           title: "HW1 - Ad-hoc Testing"
@@ -31,18 +32,22 @@
           deadline: "2026-09-11"
     - 
       date: 2026-09-08
-      title: Lecture 3 <br> Program Representations II and Transformations
+      title: Lecture 3 <br> Program Representations 
       #slides: "slides/lecture03.pdf"
       recording: ~
+      readings: 
+        -
+          title: "Graph Representations in Traditional And Neural Program Analysis"
+          url: "https://docs.google.com/presentation/d/1sVCay3RcKD59q8kCVRSVIR45MmVQvQUGSbBBPiiw1Yk/edit?usp=sharing"
+      #  -
+      #    title: "Simplifying and Isolating Failure-Inducing Input - Andreas Zeller"
+    - 
+      date: 2026-09-10
+      title: Lecture 4 <br> Program Transformations  
       readings:
         -
           title: "Visitor Design Pattern (pages 331-344)"
           url: "https://github.com/GunterMueller/Books-3/blob/master/Design%20Patterns%20Elements%20of%20Reusable%20Object-Oriented%20Software.pdf"
-          
-    - 
-      date: 2026-09-10
-      title: Lecture 4 <br> Program Transformations  
-      readings: ~
       #slides: "slides/lecture04.pdf"
       recording: ~
       assignments: 
