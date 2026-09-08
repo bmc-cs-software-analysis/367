@@ -33,9 +33,13 @@
     - 
       date: 2026-09-08
       title: Lecture 3 <br> Program Representations 
-      #slides: "slides/lecture03.pdf"
+      slides: "slides/lecture03.pdf"
       recording: ~
       readings: 
+        -
+          title: "Lecture 3 Worksheet"
+          url: "lec03-worksheet.pdf"
+
         -
           title: "Graph Representations in Traditional And Neural Program Analysis"
           url: "https://docs.google.com/presentation/d/1sVCay3RcKD59q8kCVRSVIR45MmVQvQUGSbBBPiiw1Yk/edit?usp=sharing"
