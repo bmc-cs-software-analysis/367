@@ -57,7 +57,7 @@
           url: "Mystery2.class"
 
     
-      #slides: "slides/lecture04.pdf"
+      slides: "slides/lecture04.pdf"
       recording: ~
       assignments: 
        - 
