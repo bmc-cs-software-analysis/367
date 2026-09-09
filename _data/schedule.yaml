@@ -52,6 +52,10 @@
         -
           title: "Mystery.class"
           url: "Mystery.class"
+        -
+          title: "Mystery2.class"
+          url: "Mystery2.class"
+
     
       #slides: "slides/lecture04.pdf"
       recording: ~
