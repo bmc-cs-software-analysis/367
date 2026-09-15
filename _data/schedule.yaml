@@ -60,56 +60,58 @@
       slides: "slides/lecture04.pdf"
       recording: ~
       assignments: 
-       - 
-          title: "HW2 - Program Transformations"
-          url: "hws/HW02.html"
-          deadline: "2026-09-18"
+      
     -
       date: 2026-09-15
-      title: Lecture 5 <br> Program Transformations 
+      title: Lecture 5 <br> Program Representations III 
       #slides: "slides/lecture05.pdf"
-      readings: 
-        - 
-          title: "Visitor Design Pattern (pages 331-344)"
-          url: "https://github.com/GunterMueller/Books-3/blob/master/Design%20Patterns%20Elements%20of%20Reusable%20Object-Oriented%20Software.pdf"
-        -
-          title: "Automatic Generation of Oracles for Exceptional Behaviors"
-          url: "https://homes.cs.washington.edu/~mernst/pubs/exception-oracles-issta2016.pdf"
+      readings: ~
       #assignments: 
         #-
         #    title: "Lab01 - Coverage"
         #  #url: "hws/HW01.html"
         #  deadline: "2025-02-08"
-
     - 
       date: 2026-09-17
-      title: Lecture 6 <br> Mutation Testing
+      title: Lecture 6 <br> Program Transformations
       #readings:
       #  -
       #    title: "Chapter 3"
       #slides: "slides/lecture06.pdf"
       #recording: ~
-      readings: 
+      readings:  
+        - 
+          title: "Visitor Design Pattern (pages 331-344)"
+          url: "https://github.com/GunterMueller/Books-3/blob/master/Design%20Patterns%20Elements%20of%20Reusable%20Object-Oriented%20Software.pdf"
+      assignments: 
+         - 
+          title: "HW2 - Program Transformations"
+          url: "hws/HW02.html"
+          deadline: "2026-09-18"
+        
+    - 
+      date: 2026-09-22
+      title: Lecture 7 <br> Test Oracles 
+      #slides: "slides/lecture07.pdf"
+      recording: ~
+      readings:
         -
           title: "State of Mutation Testing at Google"
           url: "https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46584.pdf"
         -
           title: "On the Use of Large Language Models in Mutation Testing"
           url: "https://web.eecs.umich.edu/~movaghar/Mutation%20Testing%20LLM%202025.pdf"
-      assignments: 
+        -
+          title: "Notes on Formal Grammars"
+          url: "https://web.stanford.edu/class/archive/cs/cs143/cs143.1128/handouts/080%20Formal%20Grammars.pdf"
+        -
+          title: "Automatic Generation of Oracles for Exceptional Behaviors"
+          url: "https://homes.cs.washington.edu/~mernst/pubs/exception-oracles-issta2016.pdf"
+      assignments:
         - 
           title: "HW3 -  Mutation Testing"
           url: "hws/HW03.html"
           deadline: 2026-09-25
-    - 
-      date: 2026-09-22
-      title: Lecture 7 <br> Test Oracles II
-      #slides: "slides/lecture07.pdf"
-      recording: ~
-      readings:
-        -
-          title: "Notes on Formal Grammars"
-          url: "https://web.stanford.edu/class/archive/cs/cs143/cs143.1128/handouts/080%20Formal%20Grammars.pdf"
       #assignments:
         # - 
         #  deadline: 2025-02-18
