@@ -59,8 +59,7 @@
     
       slides: "slides/lecture04.pdf"
       recording: ~
-      assignments: 
-      
+      assignments: ~
     -
       date: 2026-09-15
       title: Lecture 5 <br> Program Representations III 
@@ -73,13 +72,17 @@
         #  deadline: "2025-02-08"
     - 
       date: 2026-09-17
-      title: Lecture 6 <br> Program Transformations
-      #readings:
-      #  -
-      #    title: "Chapter 3"
+      title: Lecture 6 <br> Program Representations IV
       slides: "slides/lecture06.pdf"
       #recording: ~
-      readings:  
+      readings: ~
+      assignments: ~
+    - 
+      date: 2026-09-22
+      title: Lecture 7 <br> Program Transformations
+      #slides: "slides/lecture07.pdf"
+      recording: ~
+      readings:
         - 
           title: "Visitor Design Pattern (pages 331-344)"
           url: "https://github.com/GunterMueller/Books-3/blob/master/Design%20Patterns%20Elements%20of%20Reusable%20Object-Oriented%20Software.pdf"
@@ -87,13 +90,23 @@
          - 
           title: "HW2 - Program Transformations"
           url: "hws/HW02.html"
-          deadline: "2026-09-25"
-        
+          deadline: "2026-09-28"
+    -
+      date: 2026-09-24
+      title: Lecture 8 <br> Test Oracles
+      #slides: "slides/lecture08.pdf"
+      readings:
+        -
+          title: "Notes on Formal Grammars"
+          url: "https://web.stanford.edu/class/archive/cs/cs143/cs143.1128/handouts/080%20Formal%20Grammars.pdf"
+        -
+          title: "Automatic Generation of Oracles for Exceptional Behaviors"
+          url: "https://homes.cs.washington.edu/~mernst/pubs/exception-oracles-issta2016.pdf"
+      assignments: ~
     - 
-      date: 2026-09-22
-      title: Lecture 7 <br> Test Oracles 
-      #slides: "slides/lecture07.pdf"
-      recording: ~
+      date: 2026-09-29
+      title: Lecture 9 <br> Mutation Testing 
+      #slides: "slides/lecture09.pdf"
       readings:
         -
           title: "State of Mutation Testing at Google"
@@ -101,28 +114,18 @@
         -
           title: "On the Use of Large Language Models in Mutation Testing"
           url: "https://web.eecs.umich.edu/~movaghar/Mutation%20Testing%20LLM%202025.pdf"
-        -
-          title: "Notes on Formal Grammars"
-          url: "https://web.stanford.edu/class/archive/cs/cs143/cs143.1128/handouts/080%20Formal%20Grammars.pdf"
-        -
-          title: "Automatic Generation of Oracles for Exceptional Behaviors"
-          url: "https://homes.cs.washington.edu/~mernst/pubs/exception-oracles-issta2016.pdf"
-      assignments:
+      recording: ~
+      assignments: ~
         - 
           title: "HW3 -  Mutation Testing"
           url: "hws/HW03.html"
           deadline: 2026-09-25
-      #assignments:
-        # - 
-        #  deadline: 2025-02-18
-        #  title: "HW02 -  Fuzzing"
-        #  url: "hws/HW02.html"
     -
-      date: 2026-09-24
-      title: Lecture 8 <br> Mutation Testing 
-      #slides: "slides/lecture08.pdf"
+      date: 2026-10-01
+      title: Lecture 10 <br> Randomized Testing <br> Defects4j
+      #slides: "slides/lecture10.pdf"
       readings:
-        - 
+         - 
           title: "Feedback-directed Random Test Generation"
           url: "https://homes.cs.washington.edu/%7Emernst/pubs/feedback-testgen-icse2007.pdf"
       assignments:  
@@ -130,30 +133,10 @@
           deadline: 2026-09-02
           title: "HW4 - Assertion Inference"
           url: "hws/HW04.html"
-    - 
-      date: 2026-09-29
-      title: Lecture 9 <br> Randomized Testing <br> Defects4j
-      #slides: "slides/lecture09.pdf"
-      readings:
-        -
-            title: "Chain-of-Thought Prompting Elicits Reasoning in Large Language Models"
-            url: "https://arxiv.org/pdf/2201.11903"
-        -
-            title: "A Systematic Survey of Prompt Engineering in Large Language Models: Techniques and Applications"
-            url: "https://arxiv.org/pdf/2402.07927"
-      recording: ~
-      assignments: ~
-        
-
-      #deadline: 2025-02-22
-      #title: "Project 1 - Bug Case Study"
-      #title: "HW03 -  Specifications"
-      #url: "hws/HW03.html"
-
     -
-      date: 2026-10-01
-      title: Lecture 10 <br> Genetic Algorithms 
-      #slides: "slides/lecture10.pdf"
+      date: 2026-10-06
+      title: Lecture 11 <br> Genetic Algorithms 
+      #slides: "slides/lecture11.pdf"
       readings:
         -
           title: "An approximate implementation of constant time rank selection"
@@ -167,37 +150,16 @@
           title: "HW5 - Automated Testing"
           url: "hws/HW05.html"
           deadline: 2026-10-09
-    -
-      date: 2026-10-06
-      title: Lecture 11 <br> SBST <br> EvoSuite
-      #slides: "slides/lecture11.pdf"
-      readings:
+    - 
+      date: 2026-10-08
+      title: Lecture 12 <br> SBST <br> EvoSuite 
+      #slides: "https://forms.gle/b1BMkSqo2gC3SGv28"
+      readings: 
         -
           title: "CodaMOSA: Escaping Coverage Plateaus in Test Generation with Pre-trained LLMs"
           url: "https://www.carolemieux.com/codamosa_icse23.pdf"
-      #recording: ~
-    - 
-      date: 2026-10-08
-      title: Lecture 12 <br> Fuzzing <br> AFL
-      #slides: "https://forms.gle/b1BMkSqo2gC3SGv28"
-      readings:
-        -
-          title: "Leveling up Fuzzing: Finding more Vulnerabilities with AI"
-          url: "https://security.googleblog.com/2024/11/leveling-up-fuzzing-finding-more.html"
-        - 
-          title: "AFL Historical Notes"
-          url: "https://lcamtuf.coredump.cx/afl/historical_notes.txt"
-      #  -
-      #    title: "Chapter 8"
-      assignments: 
-        - 
-          title: "HW6 - Fuzzing"
-          url: "hws/HW06.html"
-          deadline: 2026-10-23
-        - 
-          #deadline: 2023-10-27
-          #title: "Project"
-          #_url: "labs/Lab00.html"
+      assignments: ~
+        
     - 
       date: 2026-10-13
       title: Fall Break. No Class.
@@ -220,13 +182,18 @@
   lectures:
     - 
       date: 2026-10-27
-      title: Lecture 14 <br> Boolean Satisfiability 
+      title: Lecture 14 <br>  Fuzzing <br> AFL <br> Boolean Satisfiability 
       #slides: "slides/lecture14.pdf"
       recording: ~
-      assignments: ~
-      #readings:
-      #  -
-      #    title: "Chapter 9 - Priority Queues"
+      readings:
+        - 
+          title: "AFL Historical Notes"
+          url: "https://lcamtuf.coredump.cx/afl/historical_notes.txt"
+      assignments:
+        - 
+          title: "HW6 - Fuzzing"
+          url: "hws/HW06.html"
+          deadline: 2026-10-23
     - 
       date: 2026-10-29
       title: Lecture 15 <br> SAT and SMT
