@@ -115,7 +115,7 @@
           title: "On the Use of Large Language Models in Mutation Testing"
           url: "https://web.eecs.umich.edu/~movaghar/Mutation%20Testing%20LLM%202025.pdf"
       recording: ~
-      assignments: ~
+      assignments:
         - 
           title: "HW3 -  Mutation Testing"
           url: "hws/HW03.html"
