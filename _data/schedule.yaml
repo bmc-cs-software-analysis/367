@@ -80,7 +80,7 @@
     - 
       date: 2026-09-22
       title: Lecture 7 <br> Program Transformations
-      #slides: "slides/lecture07.pdf"
+      slides: "slides/lecture07.pdf"
       recording: ~
       readings:
         - 
@@ -119,7 +119,7 @@
         - 
           title: "HW3 -  Mutation Testing"
           url: "hws/HW03.html"
-          deadline: 2026-09-25
+          deadline: 2026-10-05
     -
       date: 2026-10-01
       title: Lecture 10 <br> Randomized Testing <br> Defects4j
@@ -128,11 +128,8 @@
          - 
           title: "Feedback-directed Random Test Generation"
           url: "https://homes.cs.washington.edu/%7Emernst/pubs/feedback-testgen-icse2007.pdf"
-      assignments:  
-        -
-          deadline: 2026-09-02
-          title: "HW4 - Assertion Inference"
-          url: "hws/HW04.html"
+      assignments: ~
+      
     -
       date: 2026-10-06
       title: Lecture 11 <br> Genetic Algorithms 
@@ -146,10 +143,11 @@
           url: "GA_Handout.pdf"
       #recording: ~
       assignments: 
-        - 
-          title: "HW5 - Automated Testing"
-          url: "hws/HW05.html"
-          deadline: 2026-10-09
+        -
+          deadline: 2026-09-02
+          title: "HW4 - Assertion Inference"
+          url: "hws/HW04.html"
+        
     - 
       date: 2026-10-08
       title: Lecture 12 <br> SBST <br> EvoSuite 
@@ -170,7 +168,11 @@
       date: 2026-10-20
       title: Lecture 13 <br> Midterm Review
       readings: ~
-      assignments: ~
+      assignments: 
+        - 
+          title: "HW5 - Automated Testing"
+          url: "hws/HW05.html"
+          deadline: 2026-10-09
       #slides: "slides/lecture12.pdf"
       recording: ~
     -
