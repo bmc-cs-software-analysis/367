@@ -94,7 +94,7 @@
     -
       date: 2026-09-24
       title: Lecture 8 <br> Test Oracles
-      #slides: "slides/lecture08.pdf"
+      slides: "slides/lecture08.pdf"
       readings:
         -
           title: "Notes on Formal Grammars"
