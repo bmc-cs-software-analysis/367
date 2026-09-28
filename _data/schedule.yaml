@@ -106,7 +106,7 @@
     - 
       date: 2026-09-29
       title: Lecture 9 <br> Test Oracles II <br> Mutation Testing 
-      #slides: "slides/lecture09.pdf"
+      slides: "slides/lecture09.pdf"
       readings:
         -
           title: "State of Mutation Testing at Google"
