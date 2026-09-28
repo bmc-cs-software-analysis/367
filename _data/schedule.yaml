@@ -105,7 +105,7 @@
       assignments: ~
     - 
       date: 2026-09-29
-      title: Lecture 9 <br> Mutation Testing 
+      title: Lecture 9 <br> Test Oracles II <br> Mutation Testing 
       #slides: "slides/lecture09.pdf"
       readings:
         -
@@ -117,7 +117,7 @@
       recording: ~
       assignments:
         - 
-          title: "HW3 -  Mutation Testing"
+          title: "HW3 - Test Oracle Generation"
           url: "hws/HW03.html"
           deadline: 2026-10-05
     -

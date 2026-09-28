@@ -1,0 +1,5 @@
+testGetSources ( ) { Set < File > sources = testMojo . getSources ( ) ; int size = sources . size ( ); <AssertPlaceHolder> ; } 
+values_reflectsChanges ( ) { List < JsonValue > values = array . values ( ) ; array . add ( true ) ; <AssertPlaceHolder> ; }
+testWithVariableColumns ( ) { final CsvConfig cfg = new CsvConfig ( ) ; cfg . withVariableColumns ( false ) ; boolean out = cfg . isVariableColumns ( ) ; <AssertPlaceHolder> ; }
+getDocument_nullXml ( ) { billingData . setResultXML ( null ) ; Document document = billingData . getDocument ( ) ; <AssertPlaceHolder> ; } 
+shouldEqualGivenSelf ( ) {  OrderedSet < Object > orderedSet = new OrderedSet < Object > ( ) ; boolean equals = orderedSet . equals ( orderedSet ) ; <AssertPlaceHolder> ; } 
