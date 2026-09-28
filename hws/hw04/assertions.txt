@@ -1,5 +1,0 @@
-assertEquals ( 0 , sources . size ( ) )
-assertEquals ( array . values ( ) , values )
-assertFalse ( cfg . isVariableColumns ( ) )
-assertNull ( document )
-assertTrue ( equals )

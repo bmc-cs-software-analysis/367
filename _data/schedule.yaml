@@ -144,8 +144,8 @@
       #recording: ~
       assignments: 
         -
-          deadline: 2026-09-02
-          title: "HW4 - Assertion Inference"
+          deadline: 2026-10-19
+          title: "HW4 - Mutation Testing"
           url: "hws/HW04.html"
         
     - 
