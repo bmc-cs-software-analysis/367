@@ -122,19 +122,19 @@
           deadline: 2026-10-05
     -
       date: 2026-10-01
-      title: Lecture 10 <br> Randomized Testing <br> Defects4j
+      title: Lecture 10 <br> Mutation Testing <br> Defects4j
       #slides: "slides/lecture10.pdf"
-      readings:
-         - 
-          title: "Feedback-directed Random Test Generation"
-          url: "https://homes.cs.washington.edu/%7Emernst/pubs/feedback-testgen-icse2007.pdf"
+      readings: ~
       assignments: ~
       
     -
       date: 2026-10-06
-      title: Lecture 11 <br> Genetic Algorithms 
+      title: Lecture 11 <br> Randomized Testing <br> Genetic Algorithms 
       #slides: "slides/lecture11.pdf"
       readings:
+        - 
+          title: "Feedback-directed Random Test Generation"
+          url: "https://homes.cs.washington.edu/%7Emernst/pubs/feedback-testgen-icse2007.pdf"
         -
           title: "An approximate implementation of constant time rank selection"
           url: "https://github.com/bmc-cs-software-analysis/lecture-code/blob/main/lec10/RankSelection.java" 
