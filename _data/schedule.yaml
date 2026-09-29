@@ -123,7 +123,7 @@
     -
       date: 2026-10-01
       title: Lecture 10 <br> Mutation Testing <br> Defects4j
-      #slides: "slides/lecture10.pdf"
+      slides: "slides/lecture10.pdf"
       readings: ~
       assignments: ~
       
