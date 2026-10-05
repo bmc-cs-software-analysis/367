@@ -130,7 +130,7 @@
     -
       date: 2026-10-06
       title: Lecture 11 <br> Randomized Testing <br> Genetic Algorithms 
-      #slides: "slides/lecture11.pdf"
+      slides: "slides/lecture11.pdf"
       readings:
         - 
           title: "Feedback-directed Random Test Generation"
