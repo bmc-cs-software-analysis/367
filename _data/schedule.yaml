@@ -135,12 +135,6 @@
         - 
           title: "Feedback-directed Random Test Generation"
           url: "https://homes.cs.washington.edu/%7Emernst/pubs/feedback-testgen-icse2007.pdf"
-        -
-          title: "An approximate implementation of constant time rank selection"
-          url: "https://github.com/bmc-cs-software-analysis/lecture-code/blob/main/lec10/RankSelection.java" 
-        -
-          title: "Handout"
-          url: "GA_Handout.pdf"
       #recording: ~
       assignments: 
         -
@@ -153,6 +147,12 @@
       title: Lecture 12 <br> SBST <br> EvoSuite 
       #slides: "https://forms.gle/b1BMkSqo2gC3SGv28"
       readings: 
+        -
+          title: "An approximate implementation of constant time rank selection"
+          url: "https://github.com/bmc-cs-software-analysis/lecture-code/blob/main/lec10/RankSelection.java" 
+        -
+          title: "Handout"
+          url: "GA_Handout.pdf"
         -
           title: "CodaMOSA: Escaping Coverage Plateaus in Test Generation with Pre-trained LLMs"
           url: "https://www.carolemieux.com/codamosa_icse23.pdf"
