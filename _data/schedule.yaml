@@ -180,7 +180,7 @@
   lectures:
     - 
       date: 2026-10-27
-      title: Lecture 14 <br>  Fuzzing <br> AFL <br> Boolean Satisfiability 
+      title: Lecture 14 <br>  SBST <br> EvoSuite
       #slides: "slides/lecture14.pdf"
       recording: ~
       readings:
@@ -191,11 +191,11 @@
         - 
           title: "HW5 - Automated Testing"
           url: "hws/HW05.html"
-          deadline: 2026-10-09
+          deadline: 2026-11-02
         
     - 
       date: 2026-10-29
-      title: Lecture 15 <br> SAT and SMT
+      title: Lecture 15 <br> Fuzzing <br> AFL 
       #slides: "slides/lecture15.pdf"
       recording: ~
       readings: ~
@@ -203,7 +203,7 @@
       
     - 
       date: 2026-11-03
-      title: Lecture 16 <br> Formal Verification I
+      title: Lecture 16 <br> Boolean Satisfiability <br> SAT and SMT 
       #slides: "slides/lecture16.pdf"
       recording: ~
       readings:
@@ -214,17 +214,13 @@
         - 
           title: "HW6 - Fuzzing"
           url: "hws/HW06.html"
-          deadline: 2026-10-23
+          deadline: 2026-11-09
     - 
       date: 2026-11-05
-      title: Lecture 17 <br> Formal Verification II
+      title: Lecture 17 <br> Formal Verification
       #slides: "slides/lecture17.pdf"
-      assignments: 
-        -
-          title: "HW7 - Boolean Satisfiability"
-          url: "hws/HW07.html"
-          deadline: "2026-11-06"
-      
+      assignments: ~
+            
       #readings:
       #  -
       #    title: "Chapter 10 - Maps, Hash Tables, and Skip Lists"
@@ -238,6 +234,11 @@
       #      title: "Chapter 10 - Maps, Hash Tables, and Skip Lists"
       #      #title: "Chapter 12 - Sorting & Selection"
       recording: ~
+      assignments: 
+        -
+          title: "HW7 - Boolean Satisfiability"
+          url: "hws/HW07.html"
+          deadline: "2026-11-16"
     - 
       date: 2026-11-12
       title: Lecture 19 <br> Symbolic Execution
@@ -247,12 +248,8 @@
         - 
           title: "Symbolic Execution: Three Decades Later"
           url: "https://dl.acm.org/doi/pdf/10.1145/2408776.2408795"
-      assignments: 
-        - 
-          title: "HW8 - Formal Verification"
-          url: "hws/HW08.html"
-          deadline: 2026-11-13
-      
+      assignments: ~
+            
     - 
       date: 2026-11-17
       title: Lecture 20 <br> Concolic Execution
@@ -262,6 +259,11 @@
         -
           title: "On Recent AI Model Progress"
           url: "https://zeropath.com/blog/on-recent-ai-model-progress"
+      assignments:
+       - 
+          title: "HW8 - Formal Verification"
+          url: "hws/HW08.html"
+          deadline: 2026-11-23
     - 
       date: 2026-11-19
       title: Project Check In I
