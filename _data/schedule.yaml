@@ -168,11 +168,7 @@
       date: 2026-10-20
       title: Lecture 13 <br> Midterm Review
       readings: ~
-      assignments: 
-        - 
-          title: "HW5 - Automated Testing"
-          url: "hws/HW05.html"
-          deadline: 2026-10-09
+      assignments: ~
       slides: "slides/lecture13.pdf"
       recording: ~
     -
@@ -193,20 +189,18 @@
           url: "https://lcamtuf.coredump.cx/afl/historical_notes.txt"
       assignments:
         - 
-          title: "HW6 - Fuzzing"
-          url: "hws/HW06.html"
-          deadline: 2026-10-23
+          title: "HW5 - Automated Testing"
+          url: "hws/HW05.html"
+          deadline: 2026-10-09
+        
     - 
       date: 2026-10-29
       title: Lecture 15 <br> SAT and SMT
       #slides: "slides/lecture15.pdf"
       recording: ~
       readings: ~
-      assignments: 
-        -
-          title: "HW7 - Boolean Satisfiability"
-          url: "hws/HW07.html"
-          deadline: "2026-11-06"
+      assignments: ~
+      
     - 
       date: 2026-11-03
       title: Lecture 16 <br> Formal Verification I
@@ -216,16 +210,21 @@
         -
           title: "The Software Crisis"
           url: "https://www.youtube.com/watch?v=SQAoXRW-qZo&list=PLre5AT9JnKShFK9l9HYzkZugkJSsXioFs&index=4"
-      assignments: ~
+      assignments: 
+        - 
+          title: "HW6 - Fuzzing"
+          url: "hws/HW06.html"
+          deadline: 2026-10-23
     - 
       date: 2026-11-05
       title: Lecture 17 <br> Formal Verification II
       #slides: "slides/lecture17.pdf"
       assignments: 
-        - 
-          title: "HW8 - Formal Verification"
-          url: "hws/HW08.html"
-          deadline: 2026-11-13
+        -
+          title: "HW7 - Boolean Satisfiability"
+          url: "hws/HW07.html"
+          deadline: "2026-11-06"
+      
       #readings:
       #  -
       #    title: "Chapter 10 - Maps, Hash Tables, and Skip Lists"
@@ -249,10 +248,11 @@
           title: "Symbolic Execution: Three Decades Later"
           url: "https://dl.acm.org/doi/pdf/10.1145/2408776.2408795"
       assignments: 
-        -
-            title: "HW9 - Symbolic Execution"
-            url: "hws/HW09.html"
-            deadline: "2026-11-20"
+        - 
+          title: "HW8 - Formal Verification"
+          url: "hws/HW08.html"
+          deadline: 2026-11-13
+      
     - 
       date: 2026-11-17
       title: Lecture 20 <br> Concolic Execution
@@ -280,7 +280,11 @@
       #slides: "slides/lecture24.pdf"
       readings: ~
       recording: ~
-      assignments: ~
+      assignments: 
+        -
+            title: "HW9 - Symbolic Execution"
+            url: "hws/HW09.html"
+            deadline: "2026-11-20"
     - 
       date: 2026-12-01
       title: Lecture 21 <br> Static Analysis
