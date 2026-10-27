@@ -146,16 +146,8 @@
       date: 2026-10-08
       title: Lecture 12 <br> SBST <br> EvoSuite 
       slides: "slides/lecture12"
-      readings: 
-        -
-          title: "Handout"
-          url: "GA_Handout.pdf"
-        -
-          title: "CodaMOSA: Escaping Coverage Plateaus in Test Generation with Pre-trained LLMs"
-          url: "https://www.carolemieux.com/codamosa_icse23.pdf"
-        -
-          title: "An approximate implementation of constant time rank selection"
-          url: "https://github.com/bmc-cs-software-analysis/lecture-code/blob/main/lec10/RankSelection.java" 
+      readings: ~
+      
       assignments: ~
         
     - 
@@ -184,9 +176,15 @@
       #slides: "slides/lecture14.pdf"
       recording: ~
       readings:
-        - 
-          title: "AFL Historical Notes"
-          url: "https://lcamtuf.coredump.cx/afl/historical_notes.txt"
+        -
+          title: "Handout"
+          url: "GA_Handout.pdf"
+        -
+          title: "CodaMOSA: Escaping Coverage Plateaus in Test Generation with Pre-trained LLMs"
+          url: "https://www.carolemieux.com/codamosa_icse23.pdf"
+        -
+          title: "An approximate implementation of constant time rank selection"
+          url: "https://github.com/bmc-cs-software-analysis/lecture-code/blob/main/lec10/RankSelection.java" 
       assignments:
         - 
           title: "HW5 - Automated Testing"
@@ -198,7 +196,10 @@
       title: Lecture 15 <br> Fuzzing <br> AFL 
       #slides: "slides/lecture15.pdf"
       recording: ~
-      readings: ~
+      readings: 
+        - 
+          title: "AFL Historical Notes"
+          url: "https://lcamtuf.coredump.cx/afl/historical_notes.txt"
       assignments: ~
       
     - 
