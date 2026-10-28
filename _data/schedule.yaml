@@ -172,19 +172,13 @@
   lectures:
     - 
       date: 2026-10-27
-      title: Lecture 14 <br>  SBST <br> EvoSuite
+      title: Lecture 14 <br>  Evolutionary Algorithms
       slides: "slides/lecture14.pdf"
       recording: ~
       readings:
         -
           title: "Handout"
           url: "GA_Handout.pdf"
-        -
-          title: "CodaMOSA: Escaping Coverage Plateaus in Test Generation with Pre-trained LLMs"
-          url: "https://www.carolemieux.com/codamosa_icse23.pdf"
-        -
-          title: "An approximate implementation of constant time rank selection"
-          url: "https://github.com/bmc-cs-software-analysis/lecture-code/blob/main/lec10/RankSelection.java" 
       assignments:
         - 
           title: "HW5 - Automated Testing"
@@ -193,21 +187,30 @@
         
     - 
       date: 2026-10-29
-      title: Lecture 15 <br> Fuzzing <br> AFL 
+      title: Lecture 15 <br> SBST <br> EvoSuite
       #slides: "slides/lecture15.pdf"
       recording: ~
       readings: 
-        - 
-          title: "AFL Historical Notes"
-          url: "https://lcamtuf.coredump.cx/afl/historical_notes.txt"
+        -
+          title: "On the Effectiveness of Modular Testing in EvoSuite"
+          url: "https://arxiv.org/pdf/2604.27112"
+        -
+          title: "CodaMOSA: Escaping Coverage Plateaus in Test Generation with Pre-trained LLMs"
+          url: "https://www.carolemieux.com/codamosa_icse23.pdf"
+        -
+          title: "An approximate implementation of constant time rank selection"
+          url: "https://github.com/bmc-cs-software-analysis/lecture-code/blob/main/lec10/RankSelection.java" 
       assignments: ~
       
     - 
       date: 2026-11-03
-      title: Lecture 16 <br> Boolean Satisfiability <br> SAT and SMT 
+      title: Lecture 16 <br> AFL 
       #slides: "slides/lecture16.pdf"
       recording: ~
       readings:
+        - 
+          title: "AFL Historical Notes"
+          url: "https://lcamtuf.coredump.cx/afl/historical_notes.txt"
         -
           title: "The Software Crisis"
           url: "https://www.youtube.com/watch?v=SQAoXRW-qZo&list=PLre5AT9JnKShFK9l9HYzkZugkJSsXioFs&index=4"
@@ -218,7 +221,7 @@
           deadline: 2026-11-09
     - 
       date: 2026-11-05
-      title: Lecture 17 <br> Formal Verification
+      title: Lecture 17 <br> Boolean Satisfiability <br> SAT and SMT 
       #slides: "slides/lecture17.pdf"
       assignments: ~
             
@@ -228,7 +231,7 @@
       recording: ~
     - 
       date: 2026-11-10
-      title: Lecture 18 <br> Deductive Reasoning 
+      title: Lecture 18 <br> Formal Verification
       #slides: "https://piazza.com/class/m61bd6hr6hw7h/post/85"
       #readings:
       #  -
@@ -242,7 +245,7 @@
           deadline: "2026-11-16"
     - 
       date: 2026-11-12
-      title: Lecture 19 <br> Symbolic Execution
+      title: Lecture 19 <br> Deductive Reasoning 
       #slides: "slides/lecture19.pdf"
       #recording: ~
       readings: 
@@ -253,7 +256,7 @@
             
     - 
       date: 2026-11-17
-      title: Lecture 20 <br> Concolic Execution
+      title: Lecture 20 <br> Symbolic Execution
       #slides: "slides/lecture20.pdf"
       #recording: ~
       readings:
