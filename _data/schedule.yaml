@@ -199,7 +199,7 @@
           url: "https://www.carolemieux.com/codamosa_icse23.pdf"
         -
           title: "An approximate implementation of constant time rank selection"
-          url: "https://github.com/bmc-cs-software-analysis/lecture-code/blob/main/lec10/RankSelection.java" 
+          url: "https://github.com/bmc-cs-software-analysis/lecture-code/blob/main/s25/lec10/RankSelection.java" 
       assignments: ~
       
     - 
