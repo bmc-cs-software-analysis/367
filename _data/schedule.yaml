@@ -219,6 +219,9 @@
           title: "HW6 - Fuzzing"
           url: "hws/HW06.html"
           deadline: 2026-11-09
+        -
+          title: "Project"
+          url: "project/project-f26"
     - 
       date: 2026-11-05
       title: Lecture 17 <br> Boolean Satisfiability <br> SAT and SMT 
