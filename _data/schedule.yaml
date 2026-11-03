@@ -211,9 +211,7 @@
         - 
           title: "AFL Historical Notes"
           url: "https://lcamtuf.coredump.cx/afl/historical_notes.txt"
-        -
-          title: "The Software Crisis"
-          url: "https://www.youtube.com/watch?v=SQAoXRW-qZo&list=PLre5AT9JnKShFK9l9HYzkZugkJSsXioFs&index=4"
+        
       assignments: 
         - 
           title: "HW6 - Fuzzing"
@@ -230,7 +228,10 @@
       title: Lecture 17 <br> Boolean Satisfiability <br> SAT and SMT 
       #slides: "slides/lecture17.pdf"
       assignments: ~
-            
+      readings:
+        -
+          title: "The Software Crisis"
+          url: "https://www.youtube.com/watch?v=SQAoXRW-qZo&list=PLre5AT9JnKShFK9l9HYzkZugkJSsXioFs&index=4"
       #readings:
       #  -
       #    title: "Chapter 10 - Maps, Hash Tables, and Skip Lists"
