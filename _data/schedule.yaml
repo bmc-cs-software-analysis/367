@@ -222,6 +222,9 @@
         -
           title: "Project"
           url: "project/project-f26.pdf"
+        - 
+          title: "Project Rubric"
+          url: "project/rubric.pdf"
     - 
       date: 2026-11-05
       title: Lecture 17 <br> Boolean Satisfiability <br> SAT and SMT 
