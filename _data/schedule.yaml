@@ -204,8 +204,8 @@
       
     - 
       date: 2026-11-03
-      title: Lecture 16 <br> AFL 
-      #slides: "slides/lecture16.pdf"
+      title: Lecture 16 <br> SBST II <br> AFL 
+      slides: "slides/lecture16.pdf"
       recording: ~
       readings:
         - 
