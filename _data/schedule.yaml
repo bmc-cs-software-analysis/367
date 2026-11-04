@@ -243,10 +243,10 @@
       date: 2026-11-10
       title: Lecture 18 <br> Formal Verification
       #slides: "https://piazza.com/class/m61bd6hr6hw7h/post/85"
-      #readings:
-      #  -
-      #      title: "Chapter 10 - Maps, Hash Tables, and Skip Lists"
-      #      #title: "Chapter 12 - Sorting & Selection"
+      readings:
+        -
+          title: "Anthropic - LLMs are making formal software verification feasible at a much larger scale"
+          url: "https://www.anthropic.com/research/formal-verification"
       recording: ~
       assignments: 
         -
