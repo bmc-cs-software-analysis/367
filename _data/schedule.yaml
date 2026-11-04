@@ -230,6 +230,9 @@
       assignments: ~
       readings:
         -
+          title: "DPLL Activity"
+          url: "DPLL_Handout.pdf"
+        -
           title: "The Software Crisis"
           url: "https://www.youtube.com/watch?v=SQAoXRW-qZo&list=PLre5AT9JnKShFK9l9HYzkZugkJSsXioFs&index=4"
       #readings:
