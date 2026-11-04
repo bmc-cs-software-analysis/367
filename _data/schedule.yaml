@@ -226,7 +226,7 @@
     - 
       date: 2026-11-05
       title: Lecture 17 <br> Boolean Satisfiability <br> SAT and SMT 
-      #slides: "slides/lecture17.pdf"
+      slides: "slides/lecture17.pdf"
       assignments: ~
       readings:
         -
