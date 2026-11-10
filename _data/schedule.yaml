@@ -242,7 +242,7 @@
     - 
       date: 2026-11-10
       title: Lecture 18 <br> Formal Verification
-      #slides: "https://piazza.com/class/m61bd6hr6hw7h/post/85"
+      slides: "slides/lecture18.pdf"
       readings:
         -
           title: "Anthropic - LLMs are making formal software verification feasible at a much larger scale"
@@ -286,7 +286,7 @@
       assignments: ~
     - 
       date: 2026-11-24
-      title: Symbolic Execution II
+      title: Lecture 22 <br> Symbolic Execution II
       #slides: "slides/lecture23.pdf"
       readings: ~
       recording: ~
@@ -303,7 +303,7 @@
             deadline: "2026-11-20"
     - 
       date: 2026-12-01
-      title: Lecture 21 <br> Project Check in II
+      title: Lecture 23 <br> Project Check in II
       #slides: "slides/lecture24.pdf"
       readings:
         -
@@ -311,7 +311,7 @@
           url: "https://elizabethdinella.github.io/blog-posts/programabstractions/"
     -
       date: 2026-12-03
-      title: Lecture 22 <br> Static Analysis
+      title: Lecture 24 <br> Static Analysis
       #slides: "slides/lecture25.pdf"
       readings: 
         -
@@ -324,7 +324,7 @@
       assignments: ~
     - 
       date: 2026-12-08
-      title: Lecture 23 <br> Final Review.
+      title: Lecture 25 <br> Final Review.
       #slides: "slides/lecture27.pdf"
       recording: ~
     - 
