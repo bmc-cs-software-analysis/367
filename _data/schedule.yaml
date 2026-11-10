@@ -321,10 +321,7 @@
           title: "What Developers Want and Need from Program Analysis"
           url: "https://www.cabird.com/static/312690aff0f28a23e7bc331dabbeff38/christakis2016developers.pdf"
       #recording: ~
-      assignments:
-          - 
-            title: "HW10 - Static Analysis"
-            #url: "labs/Lab10.html"
+      assignments: ~
     - 
       date: 2026-12-08
       title: Lecture 23 <br> Final Review.
