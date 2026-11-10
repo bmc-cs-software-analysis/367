@@ -286,7 +286,7 @@
       assignments: ~
     - 
       date: 2026-11-24
-      title: Static Analysis 
+      title: Symbolic Execution II
       #slides: "slides/lecture23.pdf"
       readings: ~
       recording: ~
@@ -311,7 +311,7 @@
           url: "https://elizabethdinella.github.io/blog-posts/programabstractions/"
     -
       date: 2026-12-03
-      title: Lecture 22 <br> Static Analysis II
+      title: Lecture 22 <br> Static Analysis
       #slides: "slides/lecture25.pdf"
       readings: 
         -
