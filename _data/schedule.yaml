@@ -241,7 +241,7 @@
       recording: ~
     - 
       date: 2026-11-10
-      title: Lecture 18 <br> Formal Verification
+      title: Lecture 18 <br> Formal Verification  
       slides: "slides/lecture18.pdf"
       readings:
         -
@@ -255,14 +255,14 @@
           deadline: "2026-11-16"
     - 
       date: 2026-11-12
-      title: Lecture 19 <br> Specifications
+      title: Lecture 19 <br> Formal Verification
       slides: "slides/lecture19.pdf"
       #recording: ~
       readings:  ~
       assignments: ~
     - 
       date: 2026-11-17
-      title: Lecture 20 <br> Project Check in I
+      title: Lecture 20 <br> Specifications <br> Project Check in I
       #slides: "slides/lecture20.pdf"
       #recording: ~
       readings: ~
@@ -282,7 +282,7 @@
       assignments: ~
     - 
       date: 2026-11-24
-      title: Lecture 22 <br> Symbolic Execution
+      title: Lecture 22 <br> Deductive Reasoning
       #slides: "slides/lecture23.pdf"
       readings: ~
       recording: ~
@@ -310,7 +310,7 @@
           url: "https://elizabethdinella.github.io/blog-posts/programabstractions/"
     -
       date: 2026-12-03
-      title: Lecture 24 <br> Symbolic Execution II
+      title: Lecture 24 <br> Symbolic Execution
       #slides: "slides/lecture25.pdf"
       readings: 
         -
