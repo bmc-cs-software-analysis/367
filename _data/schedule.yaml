@@ -266,11 +266,7 @@
       #slides: "slides/lecture20.pdf"
       #recording: ~
       readings: ~
-      assignments:
-       - 
-          title: "HW8 - Formal Verification"
-          url: "hws/HW08.html"
-          deadline: 2026-11-23
+      assignments: ~
     - 
       date: 2026-11-19
       title: Lecture 21 <br> Deductive Reasoning
@@ -279,7 +275,11 @@
         -
           title: "On Recent AI Model Progress"
           url: "https://zeropath.com/blog/on-recent-ai-model-progress"
-      assignments: ~
+      assignments: 
+         - 
+          title: "HW8 - Formal Verification"
+          url: "hws/HW08.html"
+          deadline: 2026-12-03
     - 
       date: 2026-11-24
       title: Lecture 22 <br> Deductive Reasoning
