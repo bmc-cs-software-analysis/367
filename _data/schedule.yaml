@@ -270,11 +270,8 @@
     - 
       date: 2026-11-19
       title: Lecture 21 <br> Deductive Reasoning
-      #slides: "slides/lecture22.pdf"
-      readings: 
-        -
-          title: "On Recent AI Model Progress"
-          url: "https://zeropath.com/blog/on-recent-ai-model-progress"
+      slides: "slides/lecture21.pdf"
+      readings: ~
       assignments: 
          - 
           title: "HW8 - Formal Verification"
