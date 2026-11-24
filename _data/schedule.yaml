@@ -281,7 +281,10 @@
       date: 2026-11-24
       title: Lecture 22 <br> Deductive Reasoning
       slides: https://adam.math.hhu.de/
-      readings: ~
+      readings: 
+        -
+          title: "Formalizing CPython with Lean"
+          url: "https://broyojo.com/python-formalization/"
       recording: ~
     - 
       date: 2026-11-26
