@@ -287,16 +287,9 @@
       date: 2026-11-26
       title: Thanksgiving Break. No Class.
       #slides: "slides/lecture24.pdf"
-      readings: 
-        - 
-          title: "Symbolic Execution: Three Decades Later"
-          url: "https://dl.acm.org/doi/pdf/10.1145/2408776.2408795"
+      readings:  ~
       recording: ~
-      assignments: 
-        -
-            title: "HW9 - Symbolic Execution"
-            url: "hws/HW09.html"
-            deadline: "2026-11-20"
+      assignments: ~
     - 
       date: 2026-12-01
       title: Lecture 23 <br> Project Check in II
@@ -310,6 +303,9 @@
       title: Lecture 24 <br> Symbolic Execution
       #slides: "slides/lecture25.pdf"
       readings: 
+        - 
+          title: "Symbolic Execution: Three Decades Later"
+          url: "https://dl.acm.org/doi/pdf/10.1145/2408776.2408795"
         -
           title: "Prompts are Programs"
           url: "https://blog.sigplan.org/2024/10/22/prompts-are-programs/"
@@ -317,7 +313,11 @@
           title: "What Developers Want and Need from Program Analysis"
           url: "https://www.cabird.com/static/312690aff0f28a23e7bc331dabbeff38/christakis2016developers.pdf"
       #recording: ~
-      assignments: ~
+      assignments: 
+        -
+            title: "HW9 - Symbolic Execution"
+            url: "hws/HW09.html"
+            deadline: "2026-12-10"
     - 
       date: 2026-12-08
       title: Lecture 25 <br> Final Review.
